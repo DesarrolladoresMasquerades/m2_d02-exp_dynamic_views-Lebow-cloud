@@ -1,0 +1,9 @@
+
+{
+    "name": "Dani",
+    "hobbies": [{"name": "coding"}, {"name": "padel"}, {"name": "extra coding"}],
+    "age" : 28,
+    "adult": true
+  }
+  
+  
